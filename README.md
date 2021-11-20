@@ -4,10 +4,11 @@ Workspace for week 1 in class exercises.
 
 Covered this week:
 
-- Hello world
-- Variables
-- Commenting code
-- My name script
-- User input
-- Adding numbers
-- Adding text
+- [ ] Hello world
+- [ ] Variables
+- [ ] Adding numbers
+- [ ] Adding text
+- [ ] Type conversion
+- [ ] Commenting code
+- [ ] My name script
+- [ ] User input
